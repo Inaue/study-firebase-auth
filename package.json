@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "haml": "^0.4.3"
+  }
+}
