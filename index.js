@@ -14,8 +14,6 @@ const firebaseConfig	=
 const app	= initializeApp(firebaseConfig)
 const a		= getAuth(app)
 const p		= new GoogleAuthProvider()
-//let result	= new Object()
-//let user	= new Object()
 
 document.getElementById('login').addEventListener('click', function ()
 {
